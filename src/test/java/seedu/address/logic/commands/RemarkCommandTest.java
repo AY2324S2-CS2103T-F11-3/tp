@@ -13,15 +13,12 @@ import seedu.address.testutil.PersonBuilder;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static seedu.address.logic.commands.CommandTestUtil.*;
-import static seedu.address.logic.commands.RemarkCommand.MESSAGE_ARGUMENTS;
 import static seedu.address.testutil.TypicalIndexes.INDEX_FIRST_PERSON;
 import static seedu.address.testutil.TypicalIndexes.INDEX_SECOND_PERSON;
 import static seedu.address.testutil.TypicalPersons.getTypicalAddressBook;
 
 class RemarkCommandTest {
     private static final String REMARK_STUB = "Some remark";
-    private static final String VALID_REMARK_BOB = "He doesn't like drinking";
-
     private Model model = new ModelManager(getTypicalAddressBook(), new UserPrefs());
     @Test
     void execute_addRemarkUnfilteredList_success() {
