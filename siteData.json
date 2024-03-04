@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "jiang-bowei": "Jiang Bowei",
         "ong-zhi-kai": "Ong Zhi Kai",
         "wesley-weishen-yu": "Wesley Weishen Yu"
       },
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/jiangbowei.md",
+      "title": "Bowei's Project Portfolio Page",
+      "headings": {
+        "project-talenttracker": "Project: TalentTracker"
       },
       "headingKeywords": {}
     },
