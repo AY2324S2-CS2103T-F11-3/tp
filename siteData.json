@@ -10,7 +10,7 @@
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
+        "ong-zhi-kai": "Ong Zhi Kai",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -140,6 +140,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/zhikaiong2001.md",
+      "title": "Ong Zhi Kai's Project Portfolio Page",
+      "headings": {
+        "project-talenttracker": "Project: TalentTracker"
       },
       "headingKeywords": {}
     },
