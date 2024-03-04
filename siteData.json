@@ -7,7 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "yashwit-polapragada": "Yashwit Polapragada",
         "ryan-chiang": "Ryan Chiang",
         "jiang-bowei": "Jiang Bowei",
         "ong-zhi-kai": "Ong Zhi Kai",
@@ -162,6 +162,14 @@
     {
       "src": "team/wesleyyu.md",
       "title": "Wesley's Project Portfolio Page",
+      "headings": {
+        "project-talenttracker": "Project: TalentTracker"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yashwit.md",
+      "title": "Yash's Project Portfolio Page",
       "headings": {
         "project-talenttracker": "Project: TalentTracker"
       },
