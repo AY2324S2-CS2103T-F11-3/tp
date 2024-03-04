@@ -20,7 +20,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Ensure you have Java "),_c('code
 with(this){return _c('h2',{attrs:{"id":"features"}},[_v("Features"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#features","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{attrs:{"id":"adding-an-applicant-add-applicant"}},[_v("Adding an applicant: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add applicant")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-an-applicant-add-applicant","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"adding-an-applicant-add-applicant"}},[_v("Adding an applicant: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add applicant")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-an-applicant-add-applicant","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add applicant <name>, <email>,<phone number>")])])}
@@ -29,7 +29,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add applicant John Doe, johndoe123@gmail.com, 81239123")])])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{attrs:{"id":"adding-a-interviewer-add-interviewer"}},[_v("Adding a interviewer: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interviewer")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-interviewer-add-interviewer","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"adding-a-interviewer-add-interviewer"}},[_v("Adding a interviewer: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interviewer")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-interviewer-add-interviewer","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interviewer <name>, <email>,<phone number>")])])}
@@ -38,7 +38,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interviewer John Doe, johndoe123@gmail.com, 81239123")])])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{attrs:{"id":"adding-a-interview-add-interview"}},[_v("Adding a interview: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interview")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-interview-add-interview","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"adding-a-interview-add-interview"}},[_v("Adding a interview: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interview")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-interview-add-interview","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interview <description>, <start>, <end>, <applicant phone number>, <interviewer phone number>")])])}
@@ -71,16 +71,16 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete interview 1")]),_v(" would delete the first interview in the hiring tracker.")])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{attrs:{"id":"exiting-the-program-exit"}},[_v("Exiting the program : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exiting-the-program-exit","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"exiting-the-program-exit"}},[_v("Exiting the program : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exiting-the-program-exit","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{attrs:{"id":"saving-the-data"}},[_v("Saving the data"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#saving-the-data","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"saving-the-data"}},[_v("Saving the data"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#saving-the-data","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{attrs:{"id":"more-features-to-come-coming-in-v2-0"}},[_v("More features to come "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[coming in v2.0]")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#more-features-to-come-coming-in-v2-0","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"more-features-to-come-coming-in-v2-0"}},[_v("More features to come "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[coming in v2.0]")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#more-features-to-come-coming-in-v2-0","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('em',[_v("Details coming soon ...")])])}
@@ -98,6 +98,6 @@ with(this){return _c('h2',{attrs:{"id":"command-summary"}},[_v("Command summary"
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("Add Applicant")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add applicant <name>, <email>,<phone number>")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add applicant John Doe, johndoe123@gmail.com, 81239123")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Add Interviewer")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interviewer <name>, <email>,<phone number>")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interviewer John Doe, johndoe123@gmail.com, 81239123")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Add Interview")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interview <description>,<start>, <end>, <applicant phone number>, <interviewer phone number>")]),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add interview Round 1, 30-01-2024 1200, 30-01-2024 1500, 81239123, 91238123")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Delete Applicant/Interviewer")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete <phone number of applicant/interviewer>")]),_v(" "),_c('br'),_v(" e.g.,"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 81239123")]),_v(" would delete the entity with that phone number")])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Delete Interview")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete interview <interview index>")]),_v(", "),_c('br'),_v(" e.g `delete 1' would delete the first interview in the list")])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Exit")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.3.0")]),_v(", generated on Mon, 4 Mar 2024, 21:19:44 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.3.0")]),_v(", generated on Mon, 4 Mar 2024, 21:36:37 GMT+8]")])])])}
 }];
   
