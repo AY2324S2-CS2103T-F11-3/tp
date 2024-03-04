@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
+        "ryan-chiang": "Ryan Chiang",
         "jiang-bowei": "Jiang Bowei",
         "ong-zhi-kai": "Ong Zhi Kai",
         "wesley-weishen-yu": "Wesley Weishen Yu"
@@ -148,6 +148,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/ryanchiang.md",
+      "title": "Ryan Chiang's Project Portfolio Page",
+      "headings": {
+        "project-talent-tracker": "Project: Talent Tracker"
       },
       "headingKeywords": {}
     },
