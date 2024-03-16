@@ -39,4 +39,5 @@ public abstract class AddCommand extends Command {
         requireNonNull(person);
         toAdd = person;
     }
+
 }
