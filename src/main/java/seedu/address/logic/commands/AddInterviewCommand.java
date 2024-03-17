@@ -1,10 +1,13 @@
 package seedu.address.logic.commands;
 
 import static java.util.Objects.requireNonNull;
+import static seedu.address.logic.parser.CliSyntax.*;
+import static seedu.address.logic.parser.CliSyntax.PREFIX_TAG;
 
 import seedu.address.commons.util.ToStringBuilder;
 import seedu.address.logic.Messages;
 import seedu.address.logic.commands.exceptions.CommandException;
+import seedu.address.logic.parser.Prefix;
 import seedu.address.model.Model;
 import seedu.address.model.interview.Interview;
 import seedu.address.model.person.Applicant;
@@ -23,8 +26,23 @@ public class AddInterviewCommand extends Command{
 
     public static final String COMMAND_WORD = AddPersonCommand.COMMAND_WORD + "_interview";
 
+    public static final String MESSAGE_INFORMATION = "Parameters: "
+            + PREFIX_DESCRIPTION + "DESCRIPTION "
+            + PREFIX_DATE + "DATE "
+            + PREFIX_START_TIME + "START TIME "
+            + PREFIX_END_TIME + "END TIME "
+            + PREFIX_APPLICANT + "APPLICANT PHONE NUMBER"
+            + PREFIX_INTERVIEWER + "INTERVIEWER PHONE NUMBER " + "\n"
+            + "Example: " + COMMAND_WORD + " "
+            + PREFIX_DESCRIPTION + "technical interview "
+            + PREFIX_DATE + "2022-11-11 "
+            + PREFIX_START_TIME + "10:00 "
+            + PREFIX_END_TIME + "11:00 "
+            + PREFIX_APPLICANT + "88888888"
+            + PREFIX_INTERVIEWER + "88889999";
+
     public static final String MESSAGE_USAGE = COMMAND_WORD + ": Adds an interview to the talent tracker. "
-            + AddPersonCommand.MESSAGE_USAGE;
+            + MESSAGE_INFORMATION;
 
 
     public static final String MESSAGE_SUCCESS = "New Interview added: %1$s";
