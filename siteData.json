@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "tether-developer-guide": "Tether Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -135,7 +135,7 @@
       "src": "team/jiangbowei.md",
       "title": "Bowei's Project Portfolio Page",
       "headings": {
-        "project-talenttracker": "Project: TalentTracker"
+        "project-tether": "Project: Tether"
       },
       "headingKeywords": {}
     },
@@ -151,7 +151,7 @@
       "src": "team/ryanchiang.md",
       "title": "Ryan Chiang's Project Portfolio Page",
       "headings": {
-        "project-talent-tracker": "Project: Talent Tracker"
+        "project-tether": "Project: Tether"
       },
       "headingKeywords": {}
     },
@@ -159,7 +159,7 @@
       "src": "team/wesleyyu.md",
       "title": "Wesley's Project Portfolio Page",
       "headings": {
-        "project-talenttracker": "Project: TalentTracker"
+        "project-tether": "Project: Tether"
       },
       "headingKeywords": {}
     },
@@ -167,7 +167,7 @@
       "src": "team/yashwit.md",
       "title": "Yash's Project Portfolio Page",
       "headings": {
-        "project-talenttracker": "Project: TalentTracker"
+        "project-tether": "Project: Tether"
       },
       "headingKeywords": {}
     },
@@ -175,7 +175,7 @@
       "src": "team/zhikaiong2001.md",
       "title": "Ong Zhi Kai's Project Portfolio Page",
       "headings": {
-        "project-talenttracker": "Project: TalentTracker"
+        "project-tether": "Project: Tether"
       },
       "headingKeywords": {}
     },
