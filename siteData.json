@@ -55,7 +55,7 @@
         "find-feature": "Find feature",
         "applicant-interviewer-status-feature": "Applicant/Interviewer status feature",
         "add-interview-feature": "Add Interview Feature",
-        "saving-of-interviews-person-feature": "Saving of interviews/person feature",
+        "saving-of-interviews-persons-feature": "Saving of interviews/persons feature",
         "list-persons-and-list-interview-features": "List Persons and List interview Features",
         "delete-interview-and-delete-persons-feature": "Delete Interview and Delete Persons feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -132,7 +132,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "tether": "Tether"
       },
       "headingKeywords": {}
     },
