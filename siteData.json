@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "find-feature": "Find feature",
         "applicant-interviewer-status-feature": "Applicant/Interviewer status feature",
+        "add-interview-feature": "Add Interview Feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
