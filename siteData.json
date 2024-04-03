@@ -123,12 +123,12 @@
         "listing-all-the-interviews": "Listing all the interviews:",
         "finding-persons": "Finding persons:",
         "filtering-persons-by-status-filter-by-status": "Filtering persons by status: filter_by_status",
+        "filtering-interviews-by-date-filter-interviews-by-date": "Filtering interviews by date: filter_interviews_by_date",
         "deleting-an-applicant-interviewer-delete-person": "Deleting an applicant/interviewer : delete_person",
         "deleting-an-interview-delete-interview": "Deleting an interview : delete_interview",
         "view-overall-statistics-view-overall-statistics": "View overall statistics: view_overall_statistics",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
-        "more-features-to-come-coming-in-v1-3": "More features to come [coming in v1.3]",
         "faq": "FAQ",
         "command-summary": "Command summary"
       },
