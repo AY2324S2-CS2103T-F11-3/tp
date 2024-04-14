@@ -71,9 +71,10 @@
         "finding-a-person": "Finding a person",
         "updating-applicant-status": "Updating applicant status",
         "filtering-persons-by-status": "Filtering persons by status",
+        "deleting-an-interview": "Deleting an interview",
+        "filtering-interviews-by-date": "Filtering interviews by date",
         "view-overall-statistics": "View overall statistics",
         "saving-and-loading-data-from-data-file": "Saving and Loading data from data file",
-        "filtering-interviews-by-date": "Filtering interviews by date",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
         "appendix-effort": "Appendix: Effort"
       },
