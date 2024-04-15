@@ -78,7 +78,7 @@ Below you will see a listing and explanation of the exact commands you will need
    
     <br>
 
-2. Click to download the latest `tether.jar` from [here](https://github.com/AY2324S2-CS2103T-F11-3/tp/releases/tag/v1.3).
+2. Click to download the latest `tether.jar` from [here](https://github.com/AY2324S2-CS2103T-F11-3/tp/releases/tag/v1.4).
 
 
 3. Open your _file manager_ (search for File Explorer in your computer for Windows, or Finder for Mac), and navigate to your _downloads_ section
