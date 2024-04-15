@@ -997,4 +997,16 @@ Given below are the planned enhancements we plan to implement for our applicatio
 <br>
 ## **Appendix: Effort**
 
-**To be added**
+**Challenges** :
+* Designing and implementing the `addInterviewCommand` from scratch. 
+* Getting the GUI to display a separate list for interviews and ensuring it did not distort other current GUI components.
+* Saving of `Interview` and `Person` together in the same JSON file with no issues.
+* Implementing multi status for `Interviewer`.
+
+**Effort Required and Difficulty** :
+* 2 new sub-entity types (`Applicant`, `Interviewer`) extending AB3's 1 entity type (`Person`).
+* 1 new entity type (`Interview`).
+* 3 new data type (`Remark`, `Type` , `Status`).
+* 12 new commands (AB3 only had 8 commands of which we removed 2 and updated 3 commands).
+* Updated UI to accommodate to `Person` and `Interview` - 2 list panels compared to 1 in AB3.
+
