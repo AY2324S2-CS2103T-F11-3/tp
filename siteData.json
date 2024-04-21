@@ -199,7 +199,11 @@
       "src": "team/yashpola.md",
       "title": "Yash's Project Portfolio Page",
       "headings": {
-        "project-tether": "Project: Tether"
+        "project-tether": "Project: Tether",
+        "features": "Features",
+        "project-management": "Project management",
+        "documentation": "Documentation",
+        "community": "Community:"
       },
       "headingKeywords": {}
     },
