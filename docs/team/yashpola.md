@@ -64,11 +64,13 @@ Given below are my contributions to the project.
 * Added use cases (Main Success Scenario and Extensions) and manual testing guide for `applicant_status`, `filter_by_status` and `view_overall_statistics`.
 * Added Non Functional Requirements for product.
 
+
 ### Community:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 * Reviewed teammates' pull requests with non-trivial review comments. Example pull requests: [\#120](https://github.com/AY2324S2-CS2103T-F11-3/tp/pull/120), [\#143](https://github.com/AY2324S2-CS2103T-F11-3/tp/pull/143), [\#122](https://github.com/AY2324S2-CS2103T-F11-3/tp/pull/122), [\#95](https://github.com/AY2324S2-CS2103T-F11-3/tp/pull/95).
+* Aided in bug-triaging and response for received bug reports.
 * Contributed to course-wide forum discussions in terms of asking and answering technical, administrative, and conceptual questions. Example contributions: [1](https://github.com/nus-cs2103-AY2324S2/forum/issues/667), [2](https://github.com/nus-cs2103-AY2324S2/forum/issues/584), [3](https://github.com/nus-cs2103-AY2324S2/forum/issues/583), [4](https://github.com/nus-cs2103-AY2324S2/forum/issues/732)).
 * Reported functionality and documentation bugs for other teams ([link](https://github.com/yashpola/pe/issues)).
 
