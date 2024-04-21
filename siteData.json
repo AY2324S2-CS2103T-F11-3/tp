@@ -183,7 +183,11 @@
       "src": "team/macareonie.md",
       "title": "Ryan's Project Portfolio Page",
       "headings": {
-        "project-tether": "Project: Tether"
+        "project-tether": "Project: Tether",
+        "features": "Features",
+        "project-management": "Project management",
+        "documentation": "Documentation",
+        "community": "Community"
       },
       "headingKeywords": {}
     },
@@ -203,7 +207,7 @@
         "features": "Features",
         "project-management": "Project management",
         "documentation": "Documentation",
-        "community": "Community:"
+        "community": "Community"
       },
       "headingKeywords": {}
     },
